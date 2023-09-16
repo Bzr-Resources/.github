@@ -1,7 +1,7 @@
 # 🍀 Bzr Resources
 - A **Bzr Resources** é uma loja especializada no desenvolvimento de sistemas para a plataforma Multi Theft Auto (MTA:SA). Nosso compromisso é oferecer sistemas inovadores e de qualidade excepcional aos nossos clientes.
 
-> Na Bzr Resources, acreditamos que a inovação é a chave para proporcionar experiências únicas aos jogadores. Nossa equipe é composta por profissionais apaixonados por programação, sempre em busca das melhores práticas e das tecnologias mais recentes. Estamos determinados a superar expectativas e fornecer sistemas que deixem nossos clientes satisfeitos.
+> Na **Bzr Resources**, acreditamos que a inovação é a chave para proporcionar experiências únicas aos jogadores. Nossa equipe é composta por profissionais apaixonados por programação, sempre em busca das melhores práticas e das tecnologias mais recentes. Estamos determinados a superar expectativas e fornecer sistemas que deixem nossos clientes satisfeitos.
 
 > Nossos sistemas são cuidadosamente projetados e testados para garantir a melhor qualidade possível. Valorizamos a excelência em cada linha de código que escrevemos. Acreditamos que a qualidade não deve ser apenas explicável, mas evidente em cada produto que entregamos.
 
